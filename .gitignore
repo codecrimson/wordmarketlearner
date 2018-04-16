@@ -1,0 +1,11 @@
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+./idea
+
+# Don't upload user files
+.vscode/settings.json
+.eslintrc
+.vscode/launch.json
